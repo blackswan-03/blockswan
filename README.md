@@ -4,3 +4,4 @@
 - This code was taken from a tutorial series by Savjee A.K.A. SimplyExplained (URL: https://github.com/Savjee/SavjeeCoin)
 - However, it was manually typed, with no cut-and-paste, and all comments are mine.
 - Big thanks to Savjee for this project😉
+- NOTE - you will have to install the "crypto.js" and "elliptic" node modules for this project to work properly 
